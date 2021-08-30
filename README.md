@@ -36,6 +36,8 @@ GIF created with [ezgif](https://ezgif.com).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Learning Swift for the first time.
+- Adding the extra features without a walkthrough video/GIF.
 
 ## License
 
